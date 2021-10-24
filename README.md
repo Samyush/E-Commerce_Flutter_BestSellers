@@ -7,7 +7,7 @@ A new Flutter project initially developed for e-commerce deadline Feb 2020.
 ## For Getting Started
 Backend is laravel same project api
 
-## @author localhost(https://github.com/LocalHost-np)
+## @author samyush developed freely for localhost-IT Office Nepal (https://github.com/samyush)
 
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
